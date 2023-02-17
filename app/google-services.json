@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033154408848",
+    "project_id": "collectme-d43dc",
+    "storage_bucket": "collectme-d43dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033154408848:android:6a6a2f51120676b2dc8315",
+        "android_client_info": {
+          "package_name": "com.collectme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033154408848-vlgthhejfroq35td5or92rop6lnc7b5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmAFrDwM13pKRuw4SQkVNdlOxtJj8ncA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033154408848-vlgthhejfroq35td5or92rop6lnc7b5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
